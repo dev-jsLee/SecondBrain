@@ -1,0 +1,29 @@
+# Obsidian 설정 파일
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/plugins/*
+!.obsidian/plugins/README.md
+.trash/
+
+# 운영체제 파일
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# 임시 파일
+*.temp
+*.tmp
+~*
+
+# 개인 설정 (필요한 경우)
+# .obsidian/appearance.json
+# .obsidian/hotkeys.json
+
+# 대용량 첨부파일 (필요한 경우)
+# attachments/*.pdf
+# attachments/*.zip
+
+# 로컬 개발 환경
+.vscode/
+.idea/
