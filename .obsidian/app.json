@@ -6,5 +6,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "/temp",
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "/resource"
+  "attachmentFolderPath": "/resource",
+  "promptDelete": false
 }
