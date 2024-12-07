@@ -1,1 +1,10 @@
-{}
+{
+  "showLineNumber": true,
+  "spellcheck": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/temp",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "/resource"
+}
