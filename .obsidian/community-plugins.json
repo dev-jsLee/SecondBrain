@@ -2,6 +2,7 @@
   "obsidian-git",
   "obsidian-auto-link-title",
   "obsidian-advanced-uri",
+<<<<<<< HEAD
   "learnie",
   "ai_llm",
   "execute-code",
@@ -9,4 +10,9 @@
   "obsidian-kanban",
   "templater-obsidian",
   "quickadd"
+=======
+  "file-manager",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "templater-obsidian"
+>>>>>>> origin/master
 ]
